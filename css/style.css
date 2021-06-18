@@ -1,0 +1,34 @@
+.cdMainDiv{ 
+    background-color: #367535;
+    border-radius: 1px;
+    padding: 50px;
+}
+
+.cdInnerDiv{
+    display: flex;
+    border: 3px solid white;
+
+    padding: 25px
+}
+
+.slotDiv{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    min-width: 125px;
+}
+
+.slotDiv>h1{
+    font-size: 64px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.slotDiv > p {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+
